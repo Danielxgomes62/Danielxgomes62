@@ -1,8 +1,9 @@
 ## Olá, sou o Daniel 👋
 
-**Gestor de TI no Grupo BZ**, grupo de hotelaria e gastronomia em Búzios/RJ, com pousadas, bares e restaurantes.
+Trabalho com tecnologia para hotelaria em duas frentes:
 
-Meu trabalho é fazer a tecnologia virar resultado para a operação: menos tempo perdido da equipe, menos incidente e mais informação para quem decide.
+- **Gestor de TI no Grupo BZ** — grupo de hotelaria e gastronomia em Búzios/RJ, com pousadas, bares e restaurantes. Meu trabalho é fazer a tecnologia virar resultado para a operação: menos tempo perdido da equipe, menos incidente e mais informação para quem decide.
+- **Sócio e desenvolvedor da [Arvria](https://arvria.com)** — SaaS de IA para hotéis e pousadas: atendimento e reservas pelo WhatsApp com agentes de IA.
 
 ### O que eu faço
 
@@ -11,6 +12,7 @@ Meu trabalho é fazer a tecnologia virar resultado para a operação: menos temp
 - **Sistemas internos** — portais, painéis de indicadores e aplicações sob medida para recepção, RH, financeiro e marketing.
 - **Dados** — integração entre sistemas de hotelaria, PDV e ERP em um data warehouse para relatórios e segmentação.
 - **Automação e IA** — fluxos no n8n e assistentes de IA que tiram trabalho repetitivo da equipe.
+- **Produto SaaS** — agentes de IA multi-tenant para atendimento de hóspedes, integrados a Chatwoot, WhatsApp e PMS.
 
 ### Stack
 
@@ -27,7 +29,7 @@ Meu trabalho é fazer a tecnologia virar resultado para a operação: menos temp
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Projetos em destaque
+### Projetos em destaque — Grupo BZ
 
 | Projeto | O que resolve |
 |---|---|
@@ -37,6 +39,13 @@ Meu trabalho é fazer a tecnologia virar resultado para a operação: menos temp
 | Clube BZ | Cadastro de clientes dos bares e restaurantes por QR Code na mesa, com voucher |
 | Portal do hóspede | Pedidos, estacionamento e serviços pelo celular do hóspede |
 | Assistente de TI no WhatsApp | IA que acompanha incidentes, fornecedores e rotinas da equipe |
+
+### Projetos em destaque — Arvria
+
+| Projeto | O que resolve |
+|---|---|
+| Hotel+ Reservas | Agente de IA que atende hóspedes no WhatsApp e converte conversa em reserva |
+| Bot de recepção | Atendimento por menu de botões no WhatsApp e no site, sem custo de IA por mensagem |
 
 > A maior parte dos repositórios é privada por conter dados da operação.
 
