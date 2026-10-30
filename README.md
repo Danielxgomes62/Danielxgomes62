@@ -47,5 +47,5 @@ Trabalho com tecnologia para hotelaria em duas frentes:
 | Hotel+ Reservas | Agente de IA que atende hóspedes no WhatsApp e converte conversa em reserva |
 | Bot de recepção | Atendimento por menu de botões no WhatsApp e no site, sem custo de IA por mensagem |
 
-> A maior parte dos repositórios é privada por conter dados da operação.
+> Os repositórios são privados por conterem dados da operação e código de produto. Detalhes sob demanda.
 
